@@ -790,7 +790,7 @@
 
 ### 3.5 Given a scenario, implement secure mobile solutions.
 
-• Connection methods and receivers
+- Connection methods and receivers
 	- Cellular
 	- WiFi
 	- Bluetooth
@@ -801,7 +801,7 @@
 	- Point-to-multipoint
 	- Global Positioning System (GPS)
 	- RFID
-• Mobile device management (MDM)
+- Mobile device management (MDM)
 	- Application management
 	- Content management
 	- Remote wipe
@@ -815,12 +815,12 @@
 	- Containerization
 	- Storage segmentation
 	- Full device encryption
-• Mobile devices
+- Mobile devices
 	- MicroSD hardware security module (HSM)
 	- MDM/Unified Endpoint Management (UEM)
 	- Mobile application management (MAM)
 	- SEAndroid
-• Enforcement and monitoring of:
+- Enforcement and monitoring of:
 	- Third-party application stores
 	- Rooting/jailbreaking
 	- Sideloading
@@ -837,12 +837,13 @@
 	- Tethering
 	- Hotspot
 	- Payment methods
-• Deployment models
+- Deployment models
 	- Bring your own device (BYOD)
 	- Corporate-owned personally enabled (COPE)
 	- Choose your own device (CYOD)
 	- Corporate-owned
 	- Virtual desktop infrastructure (VDI)
+
 ### 3.6 Given a scenario, apply cybersecurity solutions to the cloud.
 
 - Cloud security controls
